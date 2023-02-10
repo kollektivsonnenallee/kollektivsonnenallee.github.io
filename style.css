@@ -23,7 +23,11 @@ span.sonne {
 }
 
 div.spacer {
-  height: 1em;
+  height: 0.2em;
+}
+
+.location {
+  color: black;
 }
 
 /* The typing effect */
