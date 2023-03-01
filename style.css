@@ -5,6 +5,7 @@
 
 body {
   display:flex;
+  flex-direction: column;
   justify-content:center;
   align-items:center;
   flex-direction:column;
@@ -15,6 +16,7 @@ body {
   font-family: "Times New Roman", Times, serif;
   font-size: 3vw;
   font-weight: bold;
+  letter-spacing: 0.05em; /* Adjust as needed */
 }
 
 .typewriter h1 {
