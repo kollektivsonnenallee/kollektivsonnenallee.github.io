@@ -43,7 +43,8 @@ body {
 }
 
 img {
-  height: 95vh;
+  max-height: 95vh;
+  max-width: 95vw;
 }
 
 @keyframes no-width {
