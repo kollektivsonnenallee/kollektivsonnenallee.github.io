@@ -42,6 +42,10 @@ body {
     blink-caret .75s step-end infinite 3s;
 }
 
+img {
+  height: 95vh;
+}
+
 @keyframes no-width {
   from { width: 0 }
   to { width: 0 }
